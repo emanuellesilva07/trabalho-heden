@@ -1,0 +1,41 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+
+.form-achado{
+    background-color: rgb(255, 255, 255);
+    margin:0 auto;
+    margin-top:50px;
+    width:300px;
+    padding:20px;
+    border:solid 1px #333;
+    border-radius:10px;
+    color: black;
+    text-align: center;
+}
+.form-perdido{
+    background-color: white;
+    margin:0 auto;
+    margin-top:50px;
+    width:300px;
+    padding:20px;
+    border:solid 1px #333;
+    border-radius:10px;
+    color: black;
+    text-align: center;
+}
+.form-aluno h2{
+    text-align:center;
+}
+.input-text,.select{
+    width:100%;
+}
+.form-aluno button{
+    width:100%;
+    margin-top:10px;
+}
